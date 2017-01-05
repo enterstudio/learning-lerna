@@ -8,7 +8,8 @@
   },
   "dependencies": {
     "@rgbkrk/a": "^0.0.1",
-    "@rgbkrk/b": "^0.0.1"
+    "@rgbkrk/b": "^0.0.1",
+    "@rgbkrk/c": "*"
   },
   "author": "",
   "license": "BSD-3-Clause"
