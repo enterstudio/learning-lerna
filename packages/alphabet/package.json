@@ -1,0 +1,15 @@
+{
+  "name": "@rgbkrk/alphabet",
+  "version": "1.0.0",
+  "description": "it's some of the alphabet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@rgbkrk/a": "*",
+    "@rgbkrk/b": "*"
+  },
+  "author": "",
+  "license": "BSD-3-Clause"
+}
