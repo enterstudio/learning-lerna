@@ -1,6 +1,6 @@
 {
   "name": "@rgbkrk/alphabet",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "it's some of the alphabet",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   "dependencies": {
     "@rgbkrk/a": "^0.0.1",
     "@rgbkrk/b": "^0.0.1",
-    "@rgbkrk/c": "*"
+    "@rgbkrk/c": "^0.0.2"
   },
   "author": "",
   "license": "BSD-3-Clause"
