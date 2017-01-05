@@ -1,14 +1,14 @@
 {
   "name": "@rgbkrk/alphabet",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "it's some of the alphabet",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@rgbkrk/a": "*",
-    "@rgbkrk/b": "*"
+    "@rgbkrk/a": "^0.0.1",
+    "@rgbkrk/b": "^0.0.1"
   },
   "author": "",
   "license": "BSD-3-Clause"
