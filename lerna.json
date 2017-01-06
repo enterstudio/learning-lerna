@@ -3,5 +3,14 @@
   "packages": [
     "packages/*"
   ],
+  "changelog": {
+    "repo": "rgbkrk/learning-lerna",
+    "labels": {
+      "fix": "fixed a thing",
+      "chore": "did stuff",
+      "create": "and so it was"
+    },
+    "cacheDir": ".changelog"
+  },
   "version": "0.0.3"
 }
